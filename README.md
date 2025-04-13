@@ -63,6 +63,11 @@
 - [Repository](https://github.com/Agoraaa/FlushHotkeys)
 - Adds a few hotkeys to easily select poker hands of certain types
 
+### No Stake Tooltip
+- [Direct Download](https://github.com/SDM0/No-Stake-Tooltip/archive/refs/heads/main.zip)
+- [Repository](https://github.com/SDM0/No-Stake-Tooltip)
+- Disables the stake tooltip on cards while keeping the stake badge.
+
 ## Content Mods
 
 ### SDM_0's Stuff
@@ -79,6 +84,11 @@
 - [Direct Download](https://github.com/notmario/MoreFluff/archive/refs/heads/main.zip)
 - [Repository](https://github.com/notmario/MoreFluff)
 - A Balatro mod that currently adds 44+ jokers, 4 decks, 2+ vouchers, and 16+ of a new consumable type: Colour cards
+
+### Joker Evolution
+- [Direct Download](https://github.com/SDM0/Joker-Evolution/archive/refs/heads/main.zip)
+- [Repository](https://github.com/SDM0/Joker-Evolution)
+- A Balatro mod that adds an evolution to a few jokers. Includes an API to create your own evolutions.
 
 ## Micellaneous Mods
 
