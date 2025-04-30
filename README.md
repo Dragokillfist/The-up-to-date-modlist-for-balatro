@@ -92,12 +92,11 @@
 
 ## Micellaneous Mods
 
-### Item Remover
-- [Direct Download](https://github.com/art-muncher/Item-Remover/archive/refs/heads/main.zip)
-- [Repository](https://github.com/art-muncher/Item-Remover)
+### Banner
+- [Direct Download](https://github.com/SylviBlossom/Banner/archive/refs/heads/main.zip)
+- [Repository](https://github.com/SylviBlossom/Banner)
 - Allows you to click on any card in the collection, debuffing it and no longer allowing it to appear
 
-Note: May be buggy on newer versions of Steamodded.
 
 ### Flower Pot
 - [Direct Download](https://github.com/GauntletGames-2086/Flower-Pot/archive/refs/heads/main.zip)
